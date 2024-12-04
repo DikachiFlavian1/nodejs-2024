@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-2024",
+  "version": "1.0.0",
+  "description": "Node.js crash course",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --env-file=.env server2.js"
+  
+  },
+  "keywords": [
+    "Kachi",
+    "-",
+    "Flavian"
+  ],
+  "author": "Kachi - Flavian",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
